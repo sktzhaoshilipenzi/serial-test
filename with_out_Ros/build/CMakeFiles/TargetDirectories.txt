@@ -1,0 +1,3 @@
+/home/cuicheng/桌面/linuxSerial/Serial/build/CMakeFiles/edit_cache.dir
+/home/cuicheng/桌面/linuxSerial/Serial/build/CMakeFiles/rebuild_cache.dir
+/home/cuicheng/桌面/linuxSerial/Serial/build/CMakeFiles/masters.dir

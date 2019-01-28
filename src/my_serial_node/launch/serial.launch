@@ -1,0 +1,17 @@
+<launch>
+	<!--param参数配置-->
+	<param name="num1" value="1" />
+	<param name="num2" value="0" />
+        <param name="num3" value="0" />
+	<param name="num4" value="1" />
+        <param name="num5" value="5" />
+	<param name="num6" value="6" />
+        <param name="num7" value="7" />
+	
+	
+	
+	<node pkg="my_serial_node" type="serial_port" name="serial_port" output="screen" />
+
+	
+
+</launch>
